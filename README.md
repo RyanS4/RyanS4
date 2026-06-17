@@ -6,28 +6,21 @@
 I'm **Ryan Snyder** 👋, a computer science undergraduate at the **University of Virginia** based in **Charlottesville, VA**.
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Computer+Science+Student;Building+with+JavaScript%2C+TypeScript%2C+and+Java;Always+learning+through+projects" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=CS+@+UVA;Building+with+JavaScript%2C+TypeScript%2C+and+Java;Always+learning+through+projects" alt="Typing SVG">
 </a>
 
 ### How to reach me
 
-<a href="https://github.com/RyanS4">
-  <img src="https://img.shields.io/badge/GitHub-RyanS4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
-</a>
-<a href="https://www.linkedin.com/in/ryan-snyder-029264326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Snyder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
-</a>
-<a href="https://github.com/RyanS4/RyanS4.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio badge">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-RyanS4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyanS4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryan%20Snyder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-snyder-029264326/) [![Email](https://img.shields.io/badge/Email-csp3pn%40virginia.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csp3pn@virginia.edu)
 
+That will render three matching badges with the email badge opening the user's email client when clicked.
 ### Current Status Quo
 
 - 🎓 I’m currently studying **Computer Science at the University of Virginia**
-- 🔭 I’m building **coursework, web, and game-related projects**
+- 🔭 I’m building **educational software for global communities at [Open Learning Exchange](https://www.ole.org)**
 - 🌱 I’m continuing to grow with **JavaScript, TypeScript, Java, and HTML**
 - 👯 I’m open to collaborating on **interesting software projects**
-- 💬 Feel free to ask me about **student projects, web development, and what I’m building**
+- 💬 Feel free to ask me about **web development, Open Learning Exchange projects, and what I’m building**
 
 ### Tools I work with 🛠
 
@@ -38,7 +31,6 @@ I'm **Ryan Snyder** 👋, a computer science undergraduate at the **University o
 ### Stats Overview :cyclone:
 
 <img src="https://github-readme-stats.vercel.app/api?username=RyanS4&show_icons=true&count_private=true&theme=material-palenight" alt="GitHub stats">
-<img src="https://github-profile-trophy.vercel.app/?username=RyanS4&theme=dracula&no-bg=true&row=1" alt="GitHub trophies">
 
 ### GitHub Highlights :blossom:
 
