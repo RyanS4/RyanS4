@@ -57,5 +57,3 @@ I'm **Ryan Snyder** 👋, a computer science undergraduate at the **University o
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanS4&theme=material-palenight&hide_border=true" alt="GitHub activity graph">
 
 ---
-
-If you'd like, send me a short bio, current focus, favorite technologies, and any extra links, and I can personalize this page even more.
