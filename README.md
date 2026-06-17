@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  My primary goal in my work is to make actual visible change in the world within the scope of each project.
+  My primary goal in my work is to make actual visible change through each project by turning ideas into practical tools and clean, usable experiences.
 </p>
 
 <p align="center">
