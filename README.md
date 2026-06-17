@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ryan Snyder 👋</h1>
 
 <p align="center">
-  Computer Science student at the <strong>University of Virginia</strong> building software that aims to create visible, real-world impact.
+  Computer Science student at the <strong>University of Virginia</strong> with a focus on building thoughtful, user-facing software.
 </p>
 
 <p align="center">
