@@ -13,7 +13,6 @@ I'm **Ryan Snyder** 👋, a computer science undergraduate at the **University o
 
 [![GitHub](https://img.shields.io/badge/GitHub-RyanS4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyanS4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryan%20Snyder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-snyder-029264326/) [![Email](https://img.shields.io/badge/Email-csp3pn%40virginia.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csp3pn@virginia.edu)
 
-That will render three matching badges with the email badge opening the user's email client when clicked.
 ### Current Status Quo
 
 - 🎓 I’m currently studying **Computer Science at the University of Virginia**
