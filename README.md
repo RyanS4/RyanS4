@@ -30,13 +30,12 @@ I'm **Ryan Snyder** 👋, a computer science undergraduate at the **University o
 
 ### Stats Overview :cyclone:
 
-<img src="https://github-readme-stats.vercel.app/api?username=RyanS4&show_icons=true&count_private=true&theme=material-palenight" alt="GitHub stats">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RyanS4&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=RyanS4&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ### GitHub Highlights :blossom:
 
-<a href="https://github.com/RyanS4">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanS4&langs_count=8&layout=compact&theme=material-palenight" alt="Top languages">
-</a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RyanS4&layout=donut&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=RyanS4&layout=donut&langs_count=4&theme=tokyonight)
+
 <a href="https://github.com/RyanS4">
   <img src="https://streak-stats.demolab.com?user=RyanS4&theme=material-palenight" alt="GitHub streak">
 </a>
